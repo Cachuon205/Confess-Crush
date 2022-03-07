@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Cá Chuồn",
-    introTitle: 'Nguyễn Tú Phương',
+    introTitle: 'Sì Kai Tuân',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
